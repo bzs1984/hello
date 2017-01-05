@@ -7,5 +7,10 @@ class Test
 	{
 		echo $name;
 	}
+
+	public static function test()
+	{
+		echo 'hah';
+	}
 }
 ?>
