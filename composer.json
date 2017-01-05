@@ -20,5 +20,6 @@
         "psr-0": {
             "Hello": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
